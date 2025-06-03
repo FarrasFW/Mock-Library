@@ -21,7 +21,6 @@ Recommend a Book	✅	✅
 Exit	✅	✅
 
 ________________________________________
- 
 Main Menu:
 
 Upon starting the program, the user will be given nine options to choose from. The user will be asked to input a number which corresponds to certain actions. The actions the user can choose from will be mentioned in the next points.
